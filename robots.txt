@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://zero2one-mys.github.io
+
+# Sitemaps
+Sitemap: https://zero2one-mys.github.io/sitemap.xml
