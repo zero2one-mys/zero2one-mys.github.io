@@ -1,0 +1,5 @@
+# ai.txt - Guidelines for AI crawlers
+# Policy: Fully open access
+
+User-agent: *
+Allow: /
