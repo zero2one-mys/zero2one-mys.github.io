@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://z2o.r-dot-lab.com
+
+# Sitemaps
+Sitemap: https://z2o.r-dot-lab.com/sitemap.xml
