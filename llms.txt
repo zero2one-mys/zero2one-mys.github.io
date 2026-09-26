@@ -1,0 +1,3 @@
+# Allow all AI crawlers to access all content
+User-agent: *
+Allow: /
